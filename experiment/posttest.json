@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Alkaline slant (red) and acid butt (yellow) with or without gas production (breaks in the agar slant) is indicative of :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "No carbohydrate fermentation",
+        "b": "Lactose/Sucrose fermentation",
+        "c": "Glucose fermentation",
+        "d": "Hydrogen Sulphide production"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The blackening of the slant and the breaks in the agar indicate:  ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "carbon dioxide and hydrogen sulfide production respectively",
+        "b": "Hydrogen sulfide and carbon dioxide respectively",
+        "c": "No utilization of carbohydrates",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. The visible black precipitate in TSI slant after incubation is:",
+      "answers": {
+        "a": "Ferrous sulfate",
+        "b": "Copper sulfate",
+        "c": "Ferrous sulfide",
+        "d": "Lead sulfide"
       },
+          
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+
+      {
+        "question": "4.  Which of the following is true about TSI medium ?",
+        "answers": {
+          "a": "It contains glucose, sucrose and lactose",
+          "b": "It contains the pH indicator phenol red",
+          "c": "it contains thiosulfate and ferrous sulfate",
+          "d": "All the above"
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
