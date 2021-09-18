@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  TSI slants contain:",
+      "answers": {
+        "a": "Glucose (1.0%), Lactose (0.1%) and Sucrose (1.0%)",
+        "b": "Glucose (1.0%), Lactose (1.0%) and Sucrose (1.0%)",
+        "c": "Glucose (0.1%), Lactose (1.0%) and Sucrose (1.0%)",
+        "d": "Glucose (0.1%), Lactose (1.0%) and Sucrose (1.0%)"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The blackening of the slant and the breaks in the agar indicate:  ",
+      "answers": {
+        "a": "carbon dioxide and hydrogen sulfide production respectively",
+        "b": "Hydrogen sulfide and carbon dioxide respectively",
+        "c": "No utilization of carbohydrates",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. The visible black precipitate in TSI slant after incubation is:",
+      "answers": {
+        "a": "Ferrous sulfate",
+        "b": "Copper sulfate",
+        "c": "Ferrous sulfide",
+        "d": "Lead sulfide"
+      },
+          
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Which of the following is true about TSI medium ?",
+        "answers": {
+          "a": "It contains glucose, sucrose and lactose",
+          "b": "It contains the pH indicator phenol red",
+          "c": "it contains thiosulfate and ferrous sulfate",
+          "d": "All the above"
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
