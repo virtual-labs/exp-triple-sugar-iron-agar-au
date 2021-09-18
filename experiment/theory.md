@@ -1,6 +1,6 @@
-## Theory
+### Theory
 
-### Principle
+#### Principle
  
 &nbsp;
 
