@@ -1,8 +1,8 @@
-## Materials Required:
+### Materials Required:
 
 &nbsp;
 
-### Culture:
+#### Culture:
  
 
 24 hour typticase soy broth culture.
@@ -11,7 +11,7 @@
 
 &nbsp;
 
-### Media:
+#### Media:
  
 
 Triple sugar-iron agar slants.
@@ -20,7 +20,7 @@ Triple sugar-iron agar slants.
 
 &nbsp;
 
-### Equipments:
+#### Equipments:
  
 
 1. Bunsen burner
@@ -34,7 +34,7 @@ Triple sugar-iron agar slants.
 
 &nbsp;
 
-### Media preparation: Triple sugar-iron agar (pH 7.4):
+#### Media preparation: Triple sugar-iron agar (pH 7.4):
  
 
 Add 3.0 gram of Beef extract, 3 gram of yeast extract, 15 gram of peptone, 5 grams of protease peptone, 10.0 grams of lactose, 10.0 gram of saccharose, 1.0 gram of glucose, 0.2 gram of ferrous sulphate, 5.0 gram of sodium chloride, 0.3 gram of sodium thiosulphate, 0.024 gram of phenol red and 12 gram of agar and make the mixture up to 1000ml with distilled water.
