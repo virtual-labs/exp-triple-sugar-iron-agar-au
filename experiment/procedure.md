@@ -129,20 +129,19 @@ It is recognized simply as bubbles of gas between the agar and the wall of the t
 
 1.	The medium should be correctly prepared in order to provide the maximum amount of information. It should be poured as a slant (also called as a slope) in a tube which is at an angle such that the area of the surface (or the slant position ) is increased so that its longest dimension is approximately the same as the depth of the lower portion(called the butt or the deep) at approximately 2.5-3 cm; this results in the surface being aerobic and the butt relatively anaerobic.
 
-2.	 Tubes are preferably screw capped containers because the reactions which characterize the growth of different organisms are dependent upon oxidative reactions, and oxygen access to the agar surface is better in such a tube.
+2.	Tubes are preferably screw capped containers because the reactions which characterize the growth of different organisms are dependent upon oxidative reactions, and oxygen access to the agar surface is better in such a tube.
 
 
-3.	 The medium is designed to detect the Enterobacteriaceae, and because it contains no selective agents it will support the growth of a wide range of bacteria. The mere presence of the growth on the medium, therefore has no significance.  It is the characteristics of the growth that is important. So the medium must be inoculated with a pure culture, often an isolated colony from another identification medium, and there will not be any useful information if it is inoculated with a mixed culture.
+3. The medium is designed to detect the Enterobacteriaceae, and because it contains no selective agents it will support the growth of a wide range of bacteria. The mere presence of the growth on the medium, therefore has no significance.  It is the characteristics of the growth that is important. So the medium must be inoculated with a pure culture, often an isolated colony from another identification medium, and there will not be any useful information if it is inoculated with a mixed culture.
 
-4.	 Do not use an inoculating loop to inoculate a tube of Triple Sugar Iron Agar. While stabbing the butt, mechanical splitting of the medium occurs, causing a false positive result for gas production.
+4. Do not use an inoculating loop to inoculate a tube of Triple Sugar Iron Agar. While stabbing the butt, mechanical splitting of the medium occurs, causing a false positive result for gas production.
 
 
 5.	If an organism can ferment any of the three sugars present in the TSI Agar medium, the medium will turn yellow. If an organism can only ferment glucose, the small amount of glucose in the medium is used by the organism within the first ten hours of incubation. After that time, the reaction that produced acid reverts in the aerobic areas of the slant, and the medium in those areas turns red, indicating alkaline conditions. The anaerobic areas of the slant, such as the butt, will not revert to an alkaline state, and they will remain yellow. This happens with Salmonella and Shigella.
 
 6.	TSI Agar medium should be read after an incubation of only 24 hours because a longer incubation time can cause a false negative. Vigorous fermenters such as Escherichia coli and Entrobacter cloacae will ferment all the available sugars and then begin using the amino acids. This will produce amine groups and cause the medium to turn alkaline.
 
-
-7.	 If an organism can reduce sulfur, the hydrogen sulfide gas which is produced will react with the iron to form iron sulfide, which appears as a black precipitate. If the precipitate is formed, it can mask any acid/alkaline results. Sulfur reduction requires an acidic environment, so if the black precipitate is present, some fermentation took place. If the butt of the slant is obscured by the precipitate, look at the top of the slant to determine if the organism could ferment only glucose (red), or if it could ferment either lactose and/or sucrose (yellow).
+7. If an organism can reduce sulfur, the hydrogen sulfide gas which is produced will react with the iron to form iron sulfide, which appears as a black precipitate. If the precipitate is formed, it can mask any acid/alkaline results. Sulfur reduction requires an acidic environment, so if the black precipitate is present, some fermentation took place. If the butt of the slant is obscured by the precipitate, look at the top of the slant to determine if the organism could ferment only glucose (red), or if it could ferment either lactose and/or sucrose (yellow).
 
 8.	If the fermentation produced gas, you may see fissures in the medium, or the entire slant may be raised above the bottom of the test tube.
  
@@ -153,11 +152,11 @@ It is recognized simply as bubbles of gas between the agar and the wall of the t
  
 &nbsp;
 
-1.	 Some organism may demonstrate Hydrogen sulfide production on Kligler Iron Agar, but not on TSI Agar because utilization of sucrose in TSI agar suppresses the enzyme mechanism that results in the production of H2S. Specifically, H2S producing Salmonella and some members of Enterobacteriaceae may not be H2S positive on TSI Agar.
+1.	Some organism may demonstrate Hydrogen sulfide production on Kligler Iron Agar, but not on TSI Agar because utilization of sucrose in TSI agar suppresses the enzyme mechanism that results in the production of H2S. Specifically, H2S producing Salmonella and some members of Enterobacteriaceae may not be H2S positive on TSI Agar.
 
 2.	H2S producing organisms on TSI Agar may produce so much of black precipitate, ferrous sulfide, that the acidity produced in the butt is completely masked.
 
 
-3.	 Sucrose is added to TSI to eliminate some sucrose-fermenting non-lactose fermenters, such as Proteus and Citrobacter spp.
+3.	Sucrose is added to TSI to eliminate some sucrose-fermenting non-lactose fermenters, such as Proteus and Citrobacter spp.
 
-4.	 Further biochemical tests and serological typing must be performed for definite identification and confirmation of organisms.
+4.	Further biochemical tests and serological typing must be performed for definite identification and confirmation of organisms.
